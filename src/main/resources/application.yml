@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    username: root
+    password: root123 
+    url: jdbc:mysql:///abc
+#    driver-class-name: com.mysql.jdbc.Driver 
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: frostyking73@gmail.com
+    password: yrhjqqwwdwgulzwd
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true

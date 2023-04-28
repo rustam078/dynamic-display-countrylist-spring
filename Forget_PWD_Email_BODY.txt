@@ -1,0 +1,10 @@
+ Hi  ${FNAME} ${LNAME}, <br/>
+ <br/>
+
+ please find your password below.<br/>
+ <br/>
+ Your password:${PWD} <br/>
+ <br/>
+
+ Thanks,<br/>
+ software RA.
